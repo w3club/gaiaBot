@@ -1,3 +1,6 @@
+!!! 暂时还不行，跑节点需要显卡
+
+
 # GaiaBOT - AI Chat Integration
 
 A Node.js application that integrates Groq and Gaianet AI services for interactive chat conversations about Paris tourism.
